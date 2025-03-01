@@ -50,11 +50,11 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Phone className="h-4 w-4 mr-2" />
-                <span className="text-gray-300">(555) 123-4567</span>
+                <span className="text-gray-300">(302) 123-4567</span>
               </li>
               <li className="flex items-start">
                 <MapPin className="h-4 w-4 mr-2 mt-1" />
-                <span className="text-gray-300">123 Legal Avenue, Justice City, JC 12345</span>
+                <span className="text-gray-300">Smith Hall, 18 Amstel Ave, Newark DE 19716</span>
               </li>
             </ul>
           </div>
