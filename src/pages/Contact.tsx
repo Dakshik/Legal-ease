@@ -68,7 +68,7 @@ const Contact = () => {
                   <Phone className="h-6 w-6 text-maroon-800 mr-3 mt-0.5" />
                   <div>
                     <p className="text-sm text-gray-500">Phone</p>
-                    <p className="text-gray-800">(555) 123-4567</p>
+                    <p className="text-gray-800">(302) 123-4567</p>
                   </div>
                 </div>
                 
@@ -76,7 +76,7 @@ const Contact = () => {
                   <MapPin className="h-6 w-6 text-maroon-800 mr-3 mt-0.5" />
                   <div>
                     <p className="text-sm text-gray-500">Address</p>
-                    <p className="text-gray-800">123 Legal Avenue<br />Justice City, JC 12345</p>
+                    <p className="text-gray-800">Smith Hall - 18 Amstel Avee<br />Newark, DE 19716</p>
                   </div>
                 </div>
               </div>
