@@ -59,17 +59,8 @@ const About = () => {
         <div className="bg-white rounded-lg shadow-md p-8 mb-16">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
           <p className="text-gray-600 mb-4">
-            Legal Ease was born from a simple observation: legal information is often locked behind expensive consultations and complex jargon, making it inaccessible to many people who need it most.
-          </p>
-          <p className="text-gray-600 mb-4">
-            Our founders experienced firsthand how difficult it can be to navigate legal systems without guidance. They recognized that while AI technology was advancing rapidly, it wasn't being applied effectively to solve this accessibility problem in the legal field.
-          </p>
-          <p className="text-gray-600 mb-4">
-            In 2023, they assembled a team of legal experts and AI specialists to create a solution that could provide reliable legal information in plain language, available 24/7, and at no cost to users.
-          </p>
-          <p className="text-gray-600">
-            Today, Legal Ease continues to grow and improve, helping thousands of people understand their legal rights and options every day.
-          </p>
+            We thought of Legal Aid because of the challenges immigrants face in understanding their rights and navigating complex legal systems. As an immigrant, Dakshi has experienced firsthand how difficult it can be for non-citizens to access accurate legal information and find trustworthy resources. Today, we see how many immigrants, refugees, and undocumented individuals struggle with issues like visa applications, work permits, housing rights, and legal protections—often without clear guidance or affordable legal assistance. Many fear deportation, exploitation, or discrimination simply because they don’t know their rights. By creating a Legal Aid platform, we aim to bridge this gap by providing accessible, multilingual, and verified legal resources to empower immigrants and non-citizens with the knowledge they need to protect themselves and their families.
+            </p>
         </div>
 
         {/* Team Section */}
@@ -80,10 +71,9 @@ const About = () => {
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="p-8 text-center">
                 <h3 className="text-4xl font-bold text-maroon-800 mb-4">Dakshi Kaushik</h3>
-                <p className="text-maroon-600 text-xl mb-4">Founder & Legal Tech Specialist</p>
+                <p className="text-maroon-600 text-xl mb-4">Developer</p>
                 <p className="text-gray-600">
-                  Dakshi has over 10 years of experience in legal technology and access to justice initiatives. 
-                  He founded Legal Ease with the mission of making legal information accessible to everyone.
+                  Bringing the Legal Aid Chatbot to life has been an incredible journey. From the initial concept to the final implementation, we have been driven by the goal of making legal information more accessible and user-friendly. By integrating AI, we aimed to create a tool that provides reliable guidance on common legal issues, helping individuals navigate their rights with greater confidence. This is just the beginning. As we continue to refine and expand its capabilities, we hope to reach even more people who can benefit from quick and accurate legal assistance. We are excited about the impact this chatbot can have and look forward to seeing how it evolves to better serve communities in need.
                 </p>
               </div>
             </div>
@@ -91,10 +81,9 @@ const About = () => {
             <div className="bg-white rounded-lg shadow-md overflow-hidden">
               <div className="p-8 text-center">
                 <h3 className="text-4xl font-bold text-maroon-800 mb-4">Rishi Patel</h3>
-                <p className="text-maroon-600 text-xl mb-4">AI Developer & Legal Researcher</p>
+                <p className="text-maroon-600 text-xl mb-4">Developer</p>
                 <p className="text-gray-600">
-                  Rishi combines his background in artificial intelligence with legal research to ensure 
-                  Legal Ease provides accurate and helpful information to users seeking legal guidance.
+                  Developing the Legal Aid Chatbot has been an exciting and rewarding experience. From the start, our goal was to bridge the gap between legal resources and the people who need them most. By leveraging AI, we have built a tool that provides clear, accessible guidance on important legal matters, empowering users with the knowledge to navigate their rights with confidence. This is just the beginning of our journey. As we continue to refine and enhance the chatbot, we look forward to expanding its reach and impact. We are committed to making legal information more accessible and ensuring that technology can play a role in promoting justice for all.
                 </p>
               </div>
             </div>
