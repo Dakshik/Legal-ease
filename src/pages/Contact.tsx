@@ -76,7 +76,7 @@ const Contact = () => {
                   <MapPin className="h-6 w-6 text-maroon-800 mr-3 mt-0.5" />
                   <div>
                     <p className="text-sm text-gray-500">Address</p>
-                    <p className="text-gray-800">Smith Hall - 18 Amstel Avee<br />Newark, DE 19716</p>
+                    <p className="text-gray-800">Smith Hall - 18 Amstel Ave<br />Newark, DE 19716</p>
                   </div>
                 </div>
               </div>
